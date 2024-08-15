@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/sean-cody-dev/tic-tac-toe-react.git)
    ```
 
 2. **Navigate to the project directory:**
@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 ## Live Preview
 You can preview the project online at the following URL:
 
-Live Preview URL
+[Live Preview URL](https://sean-cody-dev.github.io/tic-tac-toe-react/)
 
 ## Usage
 - Players take turns clicking on the squares of the game board.
